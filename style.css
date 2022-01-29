@@ -20,7 +20,7 @@ body{
     border: 10px solid #ffc107;
     vertical-align: middle;
     text-align: center; 
-    height:1400px !important;
+    height:1610px !important;
     margin-right: 15px;
     margin-left: 15px;
     color: aliceblue;
@@ -51,8 +51,10 @@ body{
 
 
 
-#code{
+#imgZero{
     margin-top: 20px;
+    max-width: 100%;
+    height: auto;
 }
 #area2{
     border-radius: 15px;
@@ -136,9 +138,27 @@ body{
     font-weight: bold;
     margin-bottom: 10px;
 }
-#project{
-    margin-top: 25px;
-    color:rgb(255, 94, 0);
-    font-weight: bold;
-    margin-bottom: 10px;
+
+
+#imgOne {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 77%;
+    height: auto;
+}
+
+
+#imgTwo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 85%;
+    height: auto;
+}
+
+
+#imgThree{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 80%;
+    height: auto;
 }
