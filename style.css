@@ -173,6 +173,18 @@ body{
     text-align: center; 
     margin-top: 55px;
     margin-bottom: 15px;
+    color: aliceblue;
+}
+
+#table12{
+    font-weight: bold;
+    font-size: 22px; 
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+    display:table;
+    width:80%;
+    table-layout:fixed;
 }
 
 #edu1{
